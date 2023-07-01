@@ -1,5 +1,3 @@
-package javaErrorException.HomeWork_001;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
